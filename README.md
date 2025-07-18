@@ -9,9 +9,6 @@
 I'm a final-year Computer Science undergraduate at IIIT Vadodara, graduating in 2026. With a solid foundation in data structures, algorithms, and system design, I'm passionate about turning complex problems into efficient, production-ready code. I actively practice competitive programming and am always building robust and scalable applications.
 
 <p align="left">
-  <a href="https://github.com/HitarthThakkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://hitarth-thakkar-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
