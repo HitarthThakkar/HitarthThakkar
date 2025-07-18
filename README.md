@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&background=00000000&width=435&lines=Full-Stack+Developer;Competitive+Programmer;Lifelong+Learner" alt="Typing SVG" /></a>
 
-[cite_start]I'm a final-year Computer Science undergraduate at IIIT Vadodara, graduating in 2026[cite: 8]. With a solid foundation in data structures, algorithms, and system design, I'm passionate about turning complex problems into efficient, production-ready code. I actively practice competitive programming and am always building robust and scalable applications.
+I'm a final-year Computer Science undergraduate at IIIT Vadodara, graduating in 2026[cite: 8]. With a solid foundation in data structures, algorithms, and system design, I'm passionate about turning complex problems into efficient, production-ready code. I actively practice competitive programming and am always building robust and scalable applications.
 
 <p align="left">
   <a href="https://github.com/HitarthThakkar" target="_blank">
