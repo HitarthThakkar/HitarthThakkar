@@ -52,23 +52,23 @@ I'm a final-year Computer Science undergraduate at IIIT Vadodara, graduating in 
 
 Here are some of the projects I've worked on.
 
-| Project                                     | Description                                                                                             | Tech Stack                                                        | Links                                                                                                                                                                                                                                                                |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [cite_start]**Mermaid-Studio** | An AI-assisted diagramming tool that converts text prompts into Mermaid.js visualizations.     | [cite_start]React, TypeScript, Vite, Tailwind CSS, Groq API [cite: 18]       | [cite_start]<a href="https://mermaid-studio.vercel.app/">**Live Demo**</a>                                                                                                                                                                                          |
-| [cite_start]**ChatPDF-AI** | A Q&A system allowing users to have conversations with multiple PDF documents using a RAG approach. [cite: 25, 27] | [cite_start]Python, Streamlit, LangChain, Gemini API [cite: 23]                 | <a href="https://chat-pdf-ai.streamlit.app/">**Live Demo**</a>                                                                                                                                                                                          |
-| [cite_start]**AlphaMinus One** [cite: 29] | [cite_start]An advanced AI chess engine with a playing strength of up to 2000 ELO. [cite: 31]                           | [cite_start]Python, PyGame, NumPy [cite: 29]                                   | [cite_start]<a href="https://github.com/HitarthThakkar/AlphaMinus-One-Chess-Engine/releases/tag/v1.0.0">**Download**</a> [cite: 34]                                                                                                                                                           |
-| [cite_start]**BookBliss** [cite: 34] | [cite_start]An e-commerce platform for online book shopping with a full-featured Admin Panel. [cite: 35] | [cite_start]PHP, MySQL, JavaScript, HTML/CSS [cite: 34] |<a href="https://bookbliss.000webhostapp.com/">**Live Demo**</a> |
+| Project                     | Description                                                                                             | Tech Stack                                       | Links                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Mermaid-Studio** | An AI-assisted diagramming tool that converts text prompts into Mermaid.js visualizations.              | React, TypeScript, Vite, Tailwind CSS, Groq API  | <a href="https://mermaid-studio.vercel.app/">**Live Demo**</a>                                                     |
+| **ChatPDF-AI** | A Q&A system allowing users to have conversations with multiple PDF documents using a RAG approach.       | Python, Streamlit, LangChain, Gemini API         | <a href="https://chat-pdf-ai.streamlit.app/">**Live Demo**</a>                                                     |
+| **AlphaMinus One** | An advanced AI chess engine with a playing strength of up to 2000 ELO.                                   | Python, PyGame, NumPy                            | <a href="https://github.com/HitarthThakkar/AlphaMinus-One-Chess-Engine/releases/tag/v1.0.0">**Download**</a>       |
+| **BookBliss** | An e-commerce platform for online book shopping with a full-featured Admin Panel.                         | PHP, MySQL, JavaScript, HTML/CSS                 | <a href="https://bookbliss.000webhostapp.com/">**Live Demo**</a>                                                    |
 
 ---
 
 ### 🏆 Competitive Programming & GitHub Stats
 
-[cite_start]I have solved over **1700+** algorithmic problems on various platforms[cite: 46]. Here are some of my profiles:
+I have solved over **1700+** algorithmic problems on various platforms. Here are some of my profiles:
 
--   **LeetCode:** Knight **1947** | [cite_start]Solved **850+** problems (Top 3% Globally) [cite: 42] | [cite_start]<a href="https://leetcode.com/u/Hitarth-Thakkar/">Profile</a> [cite: 43]
--   **Codeforces:** Specialist **1426** | [cite_start]Participated in 50+ contests [cite: 43] | [cite_start]<a href="https://codeforces.com/profile/Hitarth-Thakkar">Profile</a> [cite: 43]
--   **CodeChef:** 4-Star **1828** | [cite_start]Global Rank 13/14k+ in Starters 148 [cite: 44] | [cite_start]<a href="https://www.codechef.com/users/hitarth_2122">Profile</a> [cite: 44]
--   **Code360:** Master **2252** | [cite_start]Global Rank 10 in Weekly Contest 183 [cite: 44] | [cite_start]<a href="https://www.naukri.com/code360/profile/hitarth_2122">Profile</a> [cite: 44]
+-   **LeetCode:** Knight **1947** | Solved **850+** problems (Top 3% Globally) | <a href="https://leetcode.com/u/Hitarth-Thakkar/">Profile</a>
+-   **Codeforces:** Specialist **1426** | Participated in 50+ contests | <a href="https://codeforces.com/profile/Hitarth-Thakkar">Profile</a>
+-   **CodeChef:** 4-Star **1828** | Global Rank 13/14k+ in Starters 148 | <a href="https://www.codechef.com/users/hitarth_2122">Profile</a>
+-   **Code360:** Master **2252** | Global Rank 10 in Weekly Contest 183 | <a href="https://www.naukri.com/code360/profile/hitarth_2122">Profile</a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HitarthThakkar&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
