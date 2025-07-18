@@ -15,7 +15,7 @@ I'm a final-year Computer Science undergraduate at IIIT Vadodara, graduating in 
   <a href="https://hitarth-thakkar-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/Hitarth-Thakkar/" target="_blank">
+  <a href="https://leetcode.com/u/Hitarth_Thakkar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
    <a href="mailto:hitarththakkar0212@gmail.com" target="_blank">
@@ -54,10 +54,10 @@ Here are some of the projects I've worked on.
 
 | Project                     | Description                                                                                             | Tech Stack                                       | Links                                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **Mermaid-Studio** | An AI-assisted diagramming tool that converts text prompts into Mermaid.js visualizations.              | React, TypeScript, Vite, Tailwind CSS, Groq API  | <a href="https://mermaid-studio.vercel.app/">**Live Demo**</a>                                                     |
-| **ChatPDF-AI** | A Q&A system allowing users to have conversations with multiple PDF documents using a RAG approach.       | Python, Streamlit, LangChain, Gemini API         | <a href="https://chat-pdf-ai.streamlit.app/">**Live Demo**</a>                                                     |
-| **AlphaMinus One** | An advanced AI chess engine with a playing strength of up to 2000 ELO.                                   | Python, PyGame, NumPy                            | <a href="https://github.com/HitarthThakkar/AlphaMinus-One-Chess-Engine/releases/tag/v1.0.0">**Download**</a>       |
-| **BookBliss** | An e-commerce platform for online book shopping with a full-featured Admin Panel.                         | PHP, MySQL, JavaScript, HTML/CSS                 | <a href="https://bookbliss.000webhostapp.com/">**Live Demo**</a>                                                    |
+| **Mermaid-Studio** | An AI-assisted diagramming tool that converts text prompts into Mermaid.js visualizations.              | React, TypeScript, Vite, Tailwind CSS, Groq API  | <a href="https://mermaid-studio-hitarth.vercel.app/">**Live Demo**</a>                                                     |
+| **ChatPDF-AI** | A Q&A system allowing users to have conversations with multiple PDF documents using a RAG approach.       | Python, Streamlit, LangChain, Gemini API         | <a href="https://chatpdf-ai-hitarth-thakkar.streamlit.app/">**Live Demo**</a>                                                     |
+| **AlphaMinus One** | An advanced AI chess engine with a playing strength of up to 2000 ELO.                                   | Python, PyGame, NumPy                            | <a href="https://github.com/HitarthThakkar/AlphaMinus-One-Chess-Engine/releases/tag/v1.0.0](https://drive.google.com/file/d/1NWVfKKY7_NE9MqD0ZJE88GRehnAYa8ae/view?usp=sharing">**Download Engine**</a>       |
+| **BookBliss** | An e-commerce platform for online book shopping with a full-featured Admin Panel.                         | PHP, MySQL, JavaScript, HTML/CSS                 | <a href="https://bookbliss.infinityfreeapp.com/">**Live Demo**</a>                                                    |
 
 ---
 
@@ -65,10 +65,10 @@ Here are some of the projects I've worked on.
 
 I have solved over **1700+** algorithmic problems on various platforms. Here are some of my profiles:
 
--   **LeetCode:** Knight **1947** | Solved **850+** problems (Top 3% Globally) | <a href="https://leetcode.com/u/Hitarth-Thakkar/">Profile</a>
--   **Codeforces:** Specialist **1426** | Participated in 50+ contests | <a href="https://codeforces.com/profile/Hitarth-Thakkar">Profile</a>
--   **CodeChef:** 4-Star **1828** | Global Rank 13/14k+ in Starters 148 | <a href="https://www.codechef.com/users/hitarth_2122">Profile</a>
--   **Code360:** Master **2252** | Global Rank 10 in Weekly Contest 183 | <a href="https://www.naukri.com/code360/profile/hitarth_2122">Profile</a>
+-   **LeetCode:** Knight **1947** | Solved **850+** problems (Top 3% Globally) | <a href="https://leetcode.com/u/Hitarth_Thakkar/">Profile</a>
+-   **Codeforces:** Specialist **1426** | Participated in 50+ contests | <a href="https://codeforces.com/profile/Hitarth_Thakkar">Profile</a>
+-   **CodeChef:** 4-Star **1828** | Global Rank 13/14k+ in Starters 148 | <a href="https://www.codechef.com/users/professor_0212">Profile</a>
+-   **Code360:** Master **2252** | Global Rank 10 in Weekly Contest 183 | <a href="https://www.naukri.com/code360/profile/93389ecd-28b6-498a-8cdf-68c955883e46">Profile</a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HitarthThakkar&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
